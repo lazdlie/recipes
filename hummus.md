@@ -1,4 +1,4 @@
-# Hummus
+# Hummus 2
 ## Ingredients
 * chickpeas
 * lemon

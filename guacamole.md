@@ -1,6 +1,7 @@
 #Guacamole 
 ## Ingredients
-avocado - $2 
-salt - $2
-lime - $1
+avocado 
+salt
+lime
 ## Instructions
+* put one avocado into a bowl.
